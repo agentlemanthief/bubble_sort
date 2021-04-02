@@ -11,7 +11,7 @@ def bubble_sort(array)
     end
     idx = 0
   end
-  p array
+  array
 end
 
 bubble_sort([4,3,78,2,0,2])
